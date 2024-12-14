@@ -20,7 +20,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #5f367d;
-  --secondary: #4C0033;
+  --secondary: #7dbd6a;
   --success: #28a745;
   --info: #5f367d;
   --warning: #ffc107;
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Handlee", cursive;
   font-weight: bold;
   line-height: 1.2;
-  color: #4C0033;
+  color: #7dbd6a;
 }
 
 h1, .h1 {
@@ -2409,8 +2409,8 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #4C0033;
-  border-color: #4C0033;
+  background-color: #7dbd6a;
+  border-color: #7dbd6a;
 }
 
 .btn-secondary:hover {
@@ -2428,8 +2428,8 @@ fieldset:disabled a.btn {
 
 .btn-secondary.disabled, .btn-secondary:disabled {
   color: #fff;
-  background-color: #4C0033;
-  border-color: #4C0033;
+  background-color: #7dbd6a;
+  border-color: #7dbd6a;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
@@ -2699,14 +2699,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary {
-  color: #4C0033;
-  border-color: #4C0033;
+  color: #7dbd6a;
+  border-color: #7dbd6a;
 }
 
 .btn-outline-secondary:hover {
   color: #fff;
-  background-color: #4C0033;
-  border-color: #4C0033;
+  background-color: #7dbd6a;
+  border-color: #7dbd6a;
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
@@ -2714,15 +2714,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
-  color: #4C0033;
+  color: #7dbd6a;
   background-color: transparent;
 }
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #4C0033;
-  border-color: #4C0033;
+  background-color: #7dbd6a;
+  border-color: #7dbd6a;
 }
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
@@ -4874,7 +4874,7 @@ a.badge-primary:focus, a.badge-primary.focus {
 
 .badge-secondary {
   color: #fff;
-  background-color: #4C0033;
+  background-color: #7dbd6a;
 }
 
 a.badge-secondary:hover, a.badge-secondary:focus {
@@ -6078,7 +6078,7 @@ a.close.disabled {
   padding: 0.5rem 0.75rem;
   margin-bottom: 0;
   font-size: 1rem;
-  color: #4C0033;
+  color: #7dbd6a;
   background-color: #f7f7f7;
   border-bottom: 1px solid #ebebeb;
   border-top-left-radius: calc(0.3rem - 1px);
@@ -6366,7 +6366,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #4C0033 !important;
+  background-color: #7dbd6a !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -6488,7 +6488,7 @@ button.bg-dark:focus {
 }
 
 .border-secondary {
-  border-color: #4C0033 !important;
+  border-color: #7dbd6a !important;
 }
 
 .border-success {
@@ -9534,7 +9534,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #4C0033 !important;
+  color: #7dbd6a !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9766,7 +9766,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar-light .navbar-nav .nav-link {
   padding: 30px 15px;
-  color: #4C0033;
+  color: #7dbd6a;
   outline: none;
 }
 
@@ -9802,7 +9802,7 @@ a.text-dark:hover, a.text-dark:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #4C0033;
+  color: #7dbd6a;
   background: #5f367d;
   border-radius: 30px;
   font-size: 18px;
