@@ -9913,7 +9913,7 @@ transition: all 0.3s ease 0s;
 }
 
 .faq .card .card-header:hover {
-  background: rgba(233, 30, 99, 0.1);
+  background: #c5b1d3 ;
   padding-left: 10px;
 }
 .faq .card .card-header .faq-title {
